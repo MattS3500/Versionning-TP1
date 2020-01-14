@@ -1,3 +1,4 @@
-### application.bat 201.x - LOISEAU ###
+### application.bat 201x - LOISEAU ###
+Copyright IIA - 201x
 10:00
-Version 1
+Version 1.1
