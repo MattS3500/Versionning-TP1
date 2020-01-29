@@ -1,4 +1,4 @@
-### application.bat 201x - LOISEAU ###
+### application.bat 201x - LOISEAU Florent Hay ###
 version = "2"
 build_hour = "11:00"
 
